@@ -1,0 +1,37 @@
+# Ambiente virtual do Python
+env/
+*.pyc
+__pycache__/
+
+# Banco de dados local
+*.sqlite3
+
+# Configurações locais e arquivos temporários
+*.log
+*.pot
+*.py[cod]
+*.pyo
+*.pyd
+*.swp
+.DS_Store
+.idea/
+.vscode/
+*.env
+.env.local
+
+# Node.js (frontend)
+node_modules/
+dist/
+yarn-error.log
+yarn-debug.log*
+npm-debug.log*
+.vite/
+
+# Deploy
+*.lock
+*.crt
+*.key
+
+# Sistema operacional
+Thumbs.db
+desktop.ini
